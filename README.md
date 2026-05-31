@@ -37,7 +37,7 @@ pyshield-firewall/
 
 ⚙️ Installation
 
-git clone https://github.com/yourusername/pyshield-firewall.git
+git clone https://github.com/vegasdude/pyshield-firewall.git
 cd pyshield-firewall
 pip install -r requirements.txt
 
